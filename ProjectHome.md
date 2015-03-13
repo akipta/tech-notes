@@ -1,0 +1,1 @@
+This is a collection of technical notes collected on the job, including configuration and troubleshooting documentation.
